@@ -1,12 +1,4 @@
-/*
- * @Author: vclass
- * @Date: 2021-04-23 06:06:49
- * @LastEditTime: 2021-04-23 06:15:31
- * @LastEditors: vclass
- * @Description:
- */
-
-package db
+package sqlite
 
 import (
 	"database/sql"
